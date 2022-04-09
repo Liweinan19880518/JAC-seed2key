@@ -1,7 +1,0 @@
-﻿  JAC seed2key.cpp
-g:\奇瑞项目 诊断\上位机生成\诊断上位机生成\jac seed2key\jac seed2key\jac seed2key.cpp(14): warning C4326: “main”的返回类型应为“int”而非“void”
-g:\奇瑞项目 诊断\上位机生成\诊断上位机生成\jac seed2key\jac seed2key\jac seed2key.cpp(15): warning C4101: “key”: 未引用的局部变量
-  正在生成代码
-  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  JAC seed2key.vcxproj -> G:\奇瑞项目 诊断\上位机生成\解锁工具\JAC seed2key\Release\JAC seed2key.exe
