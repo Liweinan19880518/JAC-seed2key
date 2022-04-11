@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+g:\奇瑞项目 诊断\上位机生成\诊断上位机生成\consoleapplication1\consoleapplication1\consoleapplication1.cpp(12): warning C4326: “main”的返回类型应为“int”而非“void”
+g:\奇瑞项目 诊断\上位机生成\诊断上位机生成\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): warning C4101: “sa”: 未引用的局部变量
+g:\奇瑞项目 诊断\上位机生成\诊断上位机生成\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): warning C4101: “key”: 未引用的局部变量
+  正在生成代码
+  3 of 380 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> G:\奇瑞项目 诊断\上位机生成\诊断上位机生成\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
